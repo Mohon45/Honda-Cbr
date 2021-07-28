@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color-Customize{
+    background-color: #264653;
+}
+.login-bg-color{
+    background-color: #E76F51;
+}
+.banner-title{
+    font-size: 3rem;
+    /* font-weight: 600; */
+}
