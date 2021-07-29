@@ -10,5 +10,17 @@ body{
 }
 .banner-title{
     font-size: 3rem;
-    /* font-weight: 600; */
+}
+.section-title{
+    font-size: 3em;
+    font-weight: 600;
+}
+.coloring-text{
+    color: #E76F51;
+}
+.img-grayscale{
+    filter: grayscale(1);
+}
+.bg-btn-color{
+    background-color: #E76F51;
 }
