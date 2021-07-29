@@ -24,3 +24,13 @@ body{
 .bg-btn-color{
     background-color: #E76F51;
 }
+.card-img-style{
+    height: 149px;
+    width: 149px;
+}
+.fa-star.filled{
+    color: #E76F51;
+}
+.fa-star.empty{
+    color: #E76F51;
+}
